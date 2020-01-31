@@ -4,7 +4,7 @@
 											<div class="row">
 												<div class="col-lg-5 col-md-3">
 													<div class="footer__section">
-														<a class="footer__logo" href="home-1.html"><img src="assets/img/logo_mod-b.png" alt="Logo"></a>
+														<a class="footer__logo" href="home-1.html"><img src="assets/img/logo.png" alt="Logo"></a>
 														<div class="footer__info">
 															<p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all our stakeholders: customers, employees, investors and the planet as a whole. We add value to people’s interaction with us, whether with excellent services or products, by engaging our employees and nurturing their talents.</p>
 														</div>
